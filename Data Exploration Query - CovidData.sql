@@ -1,8 +1,8 @@
 Select * FROM CovidDeaths
 order by 3,4;
 
---Select * FROM CovidVaccinations
---order by 3,4;
+Select * FROM CovidVaccinations
+order by 3,4;
 
 -- Select Data that to start with
 
