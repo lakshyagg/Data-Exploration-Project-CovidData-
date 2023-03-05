@@ -4,9 +4,9 @@ The aim of the project was to create visualisations  to get better insights on h
 The data also contains the population of people infected in india. 
 ## Mission Objective 
 1. To get the Data from Kaggle and import it to MSSMS (Microsoft SQL Server Management Studio) 
-2. Sort out the differnet tables and numbers rewquired to generate the visualisations
+2. Sort out the differnet tables and numbers required to generate the visualisations
 3. To clean the Data 
-4. Creatinng a view
+4. Creating a view
 5. Import the Data to Tableau
 6. Create Visualisations
 ## Data Sources 
